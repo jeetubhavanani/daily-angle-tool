@@ -1,7 +1,7 @@
 from generate_voice import generate_voice
 
 # 🔧 Replace this with your actual ElevenLabs API key
-api_key = "your-elevenlabs-api-key"
+api_key = sk_fa161090daf340dfcdf637746480319dccd7378d17406c44
 
 # 🗣️ Choose a voice ID from ElevenLabs (e.g., Rachel, Adam, etc.)
 voice_id = "EXAVITQu4vr4xnSDxMaL"  # Example: Rachel
